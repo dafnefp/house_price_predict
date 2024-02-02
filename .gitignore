@@ -1,0 +1,7 @@
+# Ignore arquivos relacionados às chaves de API
+.env
+
+# Ignore arquivos de texto e apresentações
+*.docx
+*.pptx
+Desafio*.ipynb
